@@ -7,6 +7,10 @@ Server ip is bijvoorbeeld node1.justvikie.online
 Server port is bijvoorbeeld 12928
 Bot master is de minecraft user die alle commands kan uitvoeren, is bijvoorbeeld justthedev
 
+bot zal automatisch eten
+bot zal automatisch resource packs accepteren
+bot maakt first person viewer op localhost:3007
+
 📦 **Chest en Inventarisbeheer**
 - `list` – Laat de items in de bot zijn inventaris zien.  
 - `chest` – De bot zoekt een kist in de buurt en opent deze.  
@@ -38,3 +42,12 @@ Bot master is de minecraft user die alle commands kan uitvoeren, is bijvoorbeeld
      - `add lapis` – Voeg lapis lazuli toe.  
      - `enchant <nummer>` – Voer een betovering uit (1, 2 of 3).  
      - `take` – Neem het betoverde item uit de tafel.
+
+🤔 **Overige**
+ - `come` laat de bot naar de player komen
+ - `kill <user>` laat de bot <user> killen
+ - `lookAt` laat de bot kijken naar de entity dichtbij de bot
+ - `guard` zal de bot een specifieke plek laten bewaken met pvp
+ - `unguard` stopt met bewaken
+ - `search <block> <amount>` laat de bot x items van blok x vinden (alleen pickaxe blocks!!)
+ - `quitGame` verlaat de server/game
