@@ -2,7 +2,7 @@
 Simpele minecraft agent 
 
 start hem met:
-node chest.js <server_ip> <server_port> <bot_master>
+node emerald.js <server_ip> <server_port> <bot_master>
 Server ip is bijvoorbeeld node1.justvikie.online
 Server port is bijvoorbeeld 12928
 Bot master is de minecraft user die alle commands kan uitvoeren, is bijvoorbeeld justthedev
